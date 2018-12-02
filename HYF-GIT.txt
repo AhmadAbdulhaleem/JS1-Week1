@@ -1,3 +1,5 @@
 This is HackYourFuture Git class.
 
 add new line
+
+also another line
